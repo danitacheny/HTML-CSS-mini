@@ -27,7 +27,7 @@ body {
     flex-direction: row;
     justify-content: space-between;
 }
-.container__new p {
+.container__newText {
     display: flex;
     flex-direction: column;
     justify-content: center;
